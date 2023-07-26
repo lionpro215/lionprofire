@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "lionprofire": {
+      "hosting": {
+        "LionPro-fire": [
+          "lionpro"
+        ]
+      }
+    },
+    "lionprofiretodo": {
+      "hosting": {
+        "LionPro-fire": [
+          "lionprofiretodo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lionprofiretodo"
+  }
+}

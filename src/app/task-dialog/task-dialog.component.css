@@ -1,0 +1,25 @@
+.content-dialog{
+  /* min-width: 400px; */
+  padding: 30px 0 20px 45px;
+}
+.btndel{
+  display: flex;
+  align-items: center;
+  /* margin: auto; */
+  margin-left: 20%;
+  padding: 8px;
+  margin-top: 20px;
+  background-color: #ee4815;
+  color: #eeeeee;
+  border: none;
+  border-radius: 5px;
+  transition: .5s ease-in-out;
+}
+.btndel:hover{
+  background-color: #eeeeee;
+  color: #ee4815;
+  border: 2px solid #ee4815;
+}
+.btndel span{
+  font-size: 17px;
+}

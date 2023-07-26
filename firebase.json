@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "LionPro-fire",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
